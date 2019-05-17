@@ -3,11 +3,11 @@ Fourier Transform in Python applied on greyscale images using numpy and cv2
 
 -----
 
-This is my first project in Python using the Fourier Transform (FF). The goal of this project was to get some more knowledge and understanding about how FF works. As a part of my PhD study, I will be working with FF and image processing, so this seemed like a good idea.
+This is my first project in Python using the Fourier Transform (DFT). The goal of this project was to get some more knowledge and understanding about how DFT works. As a part of my PhD study, I will be working with DFT and image processing, so this seemed like a good idea.
 
 The original image, named 'Siqijor', is named after the location it was taken at - Siqijor Island in the Philippines. If you look closer, you can see me under the Ocean surface :)
 
-Noises applied over the original image are examples of the Moiré Pattern (https://en.wikipedia.org/wiki/Moiré_pattern) Apart from Python, I used Adobe Photoshop CC to apply certain effect to the original image (the .psd file is also included).
+Noises applied over the original image are examples of the Moiré Pattern (https://en.wikipedia.org/wiki/Moiré_pattern) Apart from Python, I used Adobe Photoshop CC to apply certain effect to the original image (the .psd file is also included in the repository).
 
 -----
 
